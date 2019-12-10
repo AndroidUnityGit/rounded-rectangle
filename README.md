@@ -11,3 +11,6 @@ unity shader 正方形 长方形 切圆角
 
 
 ![Image text](https://github.com/AndroidUnityGit/rounded-rectangle/blob/master/%E7%A4%BA%E4%BE%8B1.png)
+
+
+![Image text](https://github.com/AndroidUnityGit/rounded-rectangle/blob/master/%E7%A4%BA%E4%BE%8B2.png)
